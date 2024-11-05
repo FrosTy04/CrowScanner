@@ -1,4 +1,3 @@
-readme_content = """
 # CrowScanner
 CrowScanner is a Python-based network scanning tool inspired by Nmap, designed for efficient network exploration, port scanning, service and OS detection, and more. This tool provides flexibility in targeting options and scan types, making it ideal for network administrators, cybersecurity enthusiasts, and developers.
 
