@@ -5,6 +5,7 @@ CrowScanner is a customizable, Python-based network scanning tool inspired by Nm
 
 
 
+
  _____                   _____                                 
 /  __ \                 /  ___|                                
 | /  \/_ __ _____      _\ `--.  ___ __ _ _ __  _ __   ___ _ __ 
@@ -13,6 +14,7 @@ CrowScanner is a customizable, Python-based network scanning tool inspired by Nm
  \____/_|  \___/ \_/\_/ \____/ \___\__,_|_| |_|_| |_|\___|_|   
                                                                
                                                                
+
 
 
 
