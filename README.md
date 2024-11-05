@@ -1,9 +1,17 @@
+readme_content = """
 # CrowScanner
-CrowScanner is a customizable, Python-based network scanning tool inspired by Nmap, designed to facilitate both basic and advanced network scanning needs. It’s perfect for port scanning, service and OS detection, timing control, and more, making it a powerful tool for network administrators, cybersecurity enthusiasts, and developers alike.
+CrowScanner is a Python-based network scanning tool inspired by Nmap, designed for efficient network exploration, port scanning, service and OS detection, and more. This tool provides flexibility in targeting options and scan types, making it ideal for network administrators, cybersecurity enthusiasts, and developers.
 
 
 
-                                                            
+ _____                   _____                                 
+/  __ \                 /  ___|                                
+| /  \/_ __ _____      _\ `--.  ___ __ _ _ __  _ __   ___ _ __ 
+| |   | '__/ _ \ \ /\ / /`--. \/ __/ _` | '_ \| '_ \ / _ \ '__|
+| \__/\ | | (_) \ V  V //\__/ / (_| (_| | | | | | | |  __/ |   
+ \____/_|  \___/ \_/\_/ \____/ \___\__,_|_| |_|_| |_|\___|_|   
+                                                               
+                                                               
 
 
 
@@ -45,7 +53,7 @@ CrowScanner is a customizable, Python-based network scanning tool inspired by Nm
    cd CrowScanner
 
 
-#Install Dependencies CrowScanner relies on a few Python packages. You can install them using:
+Install Dependencies CrowScanner relies on a few Python packages. You can install them using:
 pip install -r requirements.txt
 asyncio
 argparse
@@ -56,10 +64,10 @@ aiohttp
 
 
 
-#Usage
+Usage
 CrowScanner provides multiple scanning options. Below is a summary of each major feature and example usage.
 
-#Basic Scanning
+Basic Scanning
 Single IP: scanner example.com
 IP Range: scanner 192.168.1.1-100
 Subnet: scanner 192.168.1.0/24
