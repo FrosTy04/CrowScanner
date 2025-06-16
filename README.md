@@ -58,8 +58,8 @@ CrowScanner provides multiple scanning options. Below is a summary of each major
 
 Basic Scanning
 Single IP: scanner example.com
-IP Range: scanner 192.168.1.1-100
-Subnet: scanner 192.168.1.0/24
+IP Range: scanner 
+Subnet: scanner 
 Multiple IPs: scanner example example.2
 Domain Name: scanner example.com
 Port Scanning
